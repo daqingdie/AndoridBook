@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_name.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\user_name.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_buy2.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_buy2.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\anniu.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\anniu.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_password.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\user_password.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_qing.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_qing.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shop_cart.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\shop_cart.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_query.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_query.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_task.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_task.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_blue.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_blue.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_location.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_location.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_friends.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_friends.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_orange.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_orange.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_delete.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_mail.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_mail.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_icon.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_icon.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\phone.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\user_head.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\user_head.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pear.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\pear.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_call.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\nav_call.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\address.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\address.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_backup.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_backup.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_menu.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shouye.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\shouye.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_add_cart.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_add_cart.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\button_green.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\button_green.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_settings.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "C:\\a\\c\\Book\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_comment.png",
+        "source": "C:\\a\\c\\Book\\app\\src\\main\\res\\drawable-xxhdpi\\ic_comment.png"
+    }
+]
